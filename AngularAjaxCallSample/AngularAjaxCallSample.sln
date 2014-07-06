@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularAjaxCallSample", "AngularAjaxCallSample.csproj", "{9B8BF380-7F42-4F02-8107-2C03CA88527C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularAjaxCallSample", "AngularAjaxCallSample\AngularAjaxCallSample.csproj", "{9B8BF380-7F42-4F02-8107-2C03CA88527C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
