@@ -1,4 +1,6 @@
-﻿angular.module('main')
-    .controller('MainController', ['$scope', function ($scope) {
+﻿
+(function (angular) {
+    angular.module('main').controller('MainController', ['$scope', function ($scope) {
 
-    }]);
+     }]);
+})(angular);
