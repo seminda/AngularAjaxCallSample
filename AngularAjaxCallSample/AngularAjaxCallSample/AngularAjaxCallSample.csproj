@@ -253,6 +253,9 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="README.txt" />
+    <Content Include="Scripts\app\controllers\usercontroller.js" />
+    <Content Include="Scripts\app\services\ajaxservice.js" />
+    <Content Include="Scripts\app\services\userservice.js" />
     <Content Include="Scripts\libs\angular-animate.js" />
     <Content Include="Scripts\libs\angular-animate.min.js" />
     <Content Include="Scripts\libs\angular-cookies.js" />
