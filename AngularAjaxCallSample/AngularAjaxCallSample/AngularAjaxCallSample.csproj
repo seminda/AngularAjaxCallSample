@@ -253,7 +253,7 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="README.txt" />
-    <Content Include="Scripts\app\controllers\usercontroller.js" />
+    <Content Include="Scripts\app\controllers\userController.js" />
     <Content Include="Scripts\app\services\ajaxservice.js" />
     <Content Include="Scripts\app\services\userservice.js" />
     <Content Include="Scripts\libs\angular-animate.js" />
@@ -279,10 +279,8 @@
     <Content Include="Scripts\app\controllers\about.js" />
     <Content Include="Scripts\app\app.js" />
     <Content Include="Scripts\app\controllers\contact.js" />
-    <Content Include="Scripts\app\controllers\demo.js" />
-    <Content Include="Scripts\app\directives\directives.js" />
+    <Content Include="Scripts\libs\directives\directives.js" />
     <Content Include="Scripts\app\controllers\main.js" />
-    <Content Include="Scripts\app\services\services.js" />
     <Content Include="Scripts\libs\bootstrap.js" />
     <Content Include="Scripts\libs\bootstrap.min.js" />
     <Content Include="Scripts\libs\errors.json" />

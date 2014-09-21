@@ -27,12 +27,12 @@ namespace AngularAjaxCallSample
 
             bundles.Add(new ScriptBundle("~/bundles/app").Include(
                         "~/Scripts/app/app.js",
-                        "~/Scripts/app/services/services.js",
-                        "~/Scripts/app/directives/directives.js",
-                        "~/Scripts/app/controllers/main.js",
+                        "~/Scripts/app/services/ajaxservice.js",
+                     "~/Scripts/app/services/userservice.js",
+                       "~/Scripts/app/controllers/main.js",
                         "~/Scripts/app/controllers/contact.js",
                         "~/Scripts/app/controllers/about.js",
-                        "~/Scripts/app/controllers/demo.js"
+                        "~/Scripts/app/controllers/userController.js"
                         ));
 
             // Use the development version of Modernizr to develop with and learn from. Then, when you're
